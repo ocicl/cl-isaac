@@ -1,0 +1,9 @@
+* cl-isaac
+
+Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/thephoeron/cl-isaac.git |
+| commit  | 9cd88f3                                        |
+| systems | cl-isaac                                       |
+|---------+------------------------------------------------|

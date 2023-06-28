@@ -4,6 +4,6 @@ Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, 
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/thephoeron/cl-isaac.git |
-| commit  | 9cd88f3                                        |
+| commit  | 51ee060                                        |
 | systems | cl-isaac                                       |
 |---------+------------------------------------------------|
